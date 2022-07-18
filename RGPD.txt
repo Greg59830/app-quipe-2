@@ -1,0 +1,17 @@
+Les champs marqués d’un astérisque sont obligatoires
+
+Nom* :
+
+Prénom* : 
+
+Adresse électronique* :
+
+Adresse :
+
+Téléphone : 
+
+Message :
+
+Nous collectons ces données afin de vous adresser par courriel le devis que vous avez sollicité. Nous utilisons également votre adresse postale pour vous adresser des publicités sur nos produits. Si vous ne souhaitez pas recevoir de telles sollicitations, cochez la case ci-dessous :
+
+ Je m’oppose à ce que mes coordonnées postales soient utilisées pour recevoir des offres de la société ABCD par courrier postal.
