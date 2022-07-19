@@ -1,0 +1,70 @@
+<nav class="navbar navbar-expand-lg navbar-dark" id="navbar">
+
+    <div class="container-fluid">
+
+        <a class="navbar-brand" href="#" routerLinkActive="active" [routerLinkActiveOptions]="{ exact: true}">
+            <i class="bi bi-shop text-primary"></i> M2i Shop
+        </a>
+
+        <button class="navbar-toggler collapsed " type="button" data-bs-toggle="collapse" data-bs-target="#navbarDemo"
+            aria-controls="navbarDemo" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="nav-item dropdown me-2">
+            <a class="nav-link dropdown-toggle text-white" href="#" id="navbarScrolling" role="button"
+                data-bs-toggle="dropdown" aria-expanded="false">
+
+                Vêtement
+                </a>
+                <ul class="dropdown-menu" aria-labelledby="navbarScrolling" id="drop">
+                    <li><a class="dropdown-item text-white" href="#" routerLinkActive="active" [routerLink]="['pantalon']">Pantalons</a></li>
+                    <li><a class="dropdown-item text-white" href="#" routerLinkActive="active" [routerLink]="['pull']">Pull</a></li>
+                    <li><a class="dropdown-item text-white" href="#" routerLinkActive="active" [routerLink]="['tshirt']">T-Shirt</a></li>
+                </ul>
+                </div>
+                <div class="nav-item dropdown me-2">
+                    <a class="nav-link dropdown-toggle text-white" href="#" id="navbarScrolling" role="button" data-bs-toggle="dropdown"
+                        aria-expanded="false">
+                
+                        Accessoires
+                    </a>
+                    <ul class="dropdown-menu" aria-labelledby="navbarScrolling" id="drop">
+                        <li><a class="dropdown-item text-white" href="#" routerLinkActive="active" [routerLink]="['bracelet']">Bracelet</a></li>
+                        <li><a class="dropdown-item text-white" href="#" routerLinkActive="active" [routerLink]="['casquette']">Casquette</a></li>
+                        <li><a class="dropdown-item text-white" href="#" routerLinkActive="active" [routerLink]="['montre']">Montre</a></li>
+                    </ul>
+                </div>
+                <div class="nav-item dropdown me-2">
+                    <a class="nav-link dropdown-toggle text-white" href="#" id="navbarScrolling" role="button" data-bs-toggle="dropdown"
+                        aria-expanded="false">
+                
+                        Chaussures
+                    </a>
+                    <ul class="dropdown-menu" aria-labelledby="navbarScrolling" id="drop">
+                        <li><a class="dropdown-item text-white" href="#" routerLinkActive="active" [routerLink]="['basket']">Basket</a></li>
+                        <li><a class="dropdown-item text-white" href="#" routerLinkActive="active" [routerLink]="['decontracte']">Décontracté</a></li>
+                    </ul>
+            </div>
+
+
+            <nav class="navbar-dark">
+                <div class="container-fluid">
+                  <form class="d-flex" role="search">
+                    <input class="form-control me-2" type="search" placeholder="recherche" aria-label="Search">
+                  </form>
+                </div>
+              </nav>
+       
+<div class="nav-item dropdown me-2">
+    <a class="nav-link text-primary" href="#" routerLinkActive="active" [routerLink]="['panier']" id="navbarScrolling"
+        role="button">
+       
+        <i class="bi bi-heart" background-color=#007bff></i> &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;
+        <i class="bi bi-basket2" background-color=#007bff></i>
+    </a>
+</div>
+    
+
+    </div>
+
+</nav>
