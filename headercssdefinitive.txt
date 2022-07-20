@@ -1,0 +1,27 @@
+#shopping {
+    color: white;
+}
+
+
+#navbar {
+
+    background-color: black;
+}
+
+#drop {
+
+    background-color: black;
+}
+
+#heart {
+    color: white;
+}
+
+
+#identify {
+    background-color: black; border: none;
+}
+
+#cart {
+    color: white;
+}
