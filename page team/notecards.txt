@@ -1,0 +1,32 @@
+
+                            <div class="card" style="width: 18rem;">
+            <img class="card-img-top" src="./asset/asterix.jpg" alt="Amin">
+            <div class="card-body">
+                <h5 class="card-title">Amin Abboud</h5>
+                <p class="card-text" ; class="text-primary"> Responsable page d'accueil, et des pages produits. </p>
+            </div>
+            <div class="card-body">
+                <a href="https://www.google.fr/" class="card-link">Contactez Amin</a>
+            </div>
+        </div><br>
+
+        <div class="card" style="width: 18rem;">
+            <img class="card-img-top" src="./asset/tintin.jpg" alt="Vincent">
+            <div class="card-body">
+                <h5 class="card-title">Vincent Lipinski</h5>
+                <p class="card-text" ; class="text-primary"> Responsable intégration des modules. </p>
+            </div>
+            <div class="card-body">
+                <a href="https://copainsdavant.linternaute.com/p/vincent-lipinski-9050271" class="card-link">Contactez
+                    Vincent</a>
+            </div><br>
+
+            <div class="card" style="width: 18rem;">
+                <img class="card-img-top" src="./asset/obelix.jpg" alt="Gregory">
+                <div class="card-body">
+                    <h5 class="card-title">Grégory Jayet</h5>
+                    <p class="card-text" ; class="text-primary"> Responsable Header page team et conditions de vente. </p>
+                </div>
+                <div class="card-body">
+                    <a href="https://www.linkedin.com/in/gr%C3%A9gory-jayet-359301226/" class="card-link">Contactez Grégory</a>
+                </div>
