@@ -99,10 +99,10 @@
                             </div>
                             <ul>
                                 <li>
-                                    <a href="#">Accueil</a>
+                                    <a href="#">Notre boutique</a>
                                 </li>
                                 <li>
-                                    <a href="#">Nos produits</a>
+                                    <a href="#">Nos conditions de vente</a>
                                 </li>
 
                                 <li>
